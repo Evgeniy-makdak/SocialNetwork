@@ -1,5 +1,5 @@
 import "./App.css";
-import Content from "./components/Content";
+import Profile from "./components/Profile";
 import Header from "./components/Header";
 import Nav from "./components/Nav";
 
@@ -8,7 +8,7 @@ function App() {
     <div className="app-wrapper">
       <Header />
       <Nav />
-      <Content />
+      <Profile />
     </div>
   );
 }

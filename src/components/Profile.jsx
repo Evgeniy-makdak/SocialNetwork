@@ -1,4 +1,4 @@
-export default function Content() {
+export default function Profile() {
     return (
         <div className="app-content">
             <img
